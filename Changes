@@ -1,5 +1,11 @@
 Revision history for Temperature::Windchill
 
+0.03    7 April 2008
+   * added Pod::Coverage to build_prereqs
+   * minor test refactoring
+   * fixed perl version prerequisite
+   * loosened build requirements (removed Test::Pod et. al.)
+
 0.02    22 Feb 2008
    * now requires perl 5.6
    * fixed documentation, Build.PL, META.yml, MANIFEST
